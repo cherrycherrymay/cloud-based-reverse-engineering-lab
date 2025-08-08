@@ -20,12 +20,12 @@ This lab provides a controlled, isolated environment for:
 
 ## Installation & Deployment
 1. **Deploy on AWS**  
-   - Launch a Windows instance in AWS.  
-   - Follow Grant Collins' tutorial to set up FlareVM (link in the [Credits](#credits) section).  
+   - Launch a Windows instance in AWS.
+   - Ensure all network isolation and security groups are configured.  
+   - Credits: https://www.youtube.com/watch?v=rmSIm3BKu3Y
 
 2. **Access Your Lab**  
    - Connect via RDP to the AWS instance.  
-   - Ensure all network isolation and security groups are configured.
 
 ## Usage
 - Use FlareVM tools (x64dbg, IDA Free, Ghidra) to inspect binaries.
