@@ -1,7 +1,7 @@
 # Reverse Engineering Lab (AWS + FlareVM)
 
 A cloud-hosted reverse engineering environment deployed on **AWS** for malware analysis and software reverse engineering personal practice.  
-This project was built while following a tutorial by Grant Collins to set up FlareVM in a secure AWS instance. 
+
 
 ## About
 This lab provides a controlled, isolated environment for:
